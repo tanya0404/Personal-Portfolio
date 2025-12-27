@@ -13,34 +13,31 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+            I’m a passionate Full-Stack Developer who enjoys transforming ideas into clean, user-centric web applications. I love building intuitive interfaces backed by robust backend systems that solve real-world problems.
               <br />
               <br />
-              I’m proficient in
+              I work comfortably across the stack using
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, React, Redux, Node.js, Express, and
+                  MongoDB{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
-              <br />
-              <br />
+              — and I enjoy working across both frontend and backend stacks.
+              
               My key areas of interest include developing
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  modern Web Applications, APIs, and data-driven products{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              I’m always exploring new tools and best practices to improve performance and user experience, and I particularly enjoy building projects with
+              <b className="purple"> Node.js</b>,{" "}
               <i>
                 <b className="purple">React.js</b> and{" "}
                 <b className="purple">Next.js</b>.
